@@ -1,0 +1,9 @@
+node_modules/
+dist/
+private-inputs/
+.env
+proofprep-last-result.json
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.sqlite-journal
